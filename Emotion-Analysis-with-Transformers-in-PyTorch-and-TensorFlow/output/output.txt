@@ -1,0 +1,40 @@
+Hi how are you doing today 
+You Seem to be JOY
+Prediction accuracy according to me is :84.11
+
+I am thinking to quit 
+You Seem to be SAD
+Prediction accuracy according to me is :72.67
+
+Can i get a refund for my order ?
+You Seem to be JOY
+Prediction accuracy according to me is :60.39
+
+why are just disturbing me again and again 
+You Seem to be FEAR
+Prediction accuracy according to me is :82.39
+
+you must reach by 5
+You Seem to be JOY
+Prediction accuracy according to me is :51.37
+
+Hey you listen carefully ...I am busy !!!
+You Seem to be JOY
+Prediction accuracy according to me is :93.35
+
+are you gone mad
+You Seem to be ANGER
+Prediction accuracy according to me is :94.30
+
+I am feeling low 
+You Seem to be SAD
+Prediction accuracy according to me is :97.51
+
+you play well, never stop playing 
+You Seem to be JOY
+Prediction accuracy according to me is :95.27
+
+can i please borrow your toy 
+You Seem to be JOY
+Prediction accuracy according to me is :83.58
+
